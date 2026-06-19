@@ -16,7 +16,7 @@ const path = require('path');
 const app = express();
 
 // --------- Configuration ---------
-const PORT = 5001;
+const PORT = 5000;
 const dataDir = path.resolve(__dirname, 'data');
 const dataFile = path.resolve(dataDir, 'courses.json');
 const STATUS_OPTIONS = ['Not Started', 'In Progress', 'Completed'];
