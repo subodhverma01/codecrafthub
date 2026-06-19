@@ -1,10 +1,18 @@
 [
   {
-    "id": 1,
-    "name": "Intro to Node",
-    "description": "Learn Node basics",
-    "target_date": "2026-12-31",
+    "id": 2,
+    "name": "Python Basic",
+    "description": "Python basic",
+    "target_date": "2026-06-30",
+    "status": "In Progress",
+    "created_at": "2026-06-19T06:48:06.606Z"
+  },
+  {
+    "id": 3,
+    "name": "Python Advance",
+    "description": "Advance",
+    "target_date": "2026-08-31",
     "status": "Not Started",
-    "created_at": "2026-06-19T05:47:30.836Z"
+    "created_at": "2026-06-19T06:51:07.360Z"
   }
 ]
